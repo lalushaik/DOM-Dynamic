@@ -158,7 +158,11 @@ card1.setAttribute("class","col-md-7");
 row.appendChild(card1);
 var education2 =document.createElement("p");
 education2.textContent=myeducation.info2;
-card1.appendChild(education2);
-    
+card1.appendChild(education2);  
+var sign =document.createElement("h6");
+sign.setAttribute("class","text-right");
+sign.textContent="(Lalu Shaik)";
+resume.appendChild(sign);
 }
+
 
