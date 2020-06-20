@@ -1,0 +1,53 @@
+/* desktop view*/
+body{
+    background-color: #ABC2C4;
+}
+.row{
+    background-color:#77989C ;
+}
+.card{
+    background-color: #40949C;
+    border-radius: 4%;
+    box-shadow: 2px 2px 2px 2px white; 
+}
+#resumepart{
+    background-color: #40949C;
+    border-radius: 2%;
+    box-shadow: 2px 2px 2px 2px white; 
+}
+#educationDetails{
+    background-color: #40949C;
+
+}
+
+/*tablet view*/
+
+@media (min-width:768px) and (max-width:991px) {
+   body{
+       background-color: #CEF4DB;
+   }
+   .row{
+    background-color:#57DA83;
+    flex-direction: row-reverse;
+
+   }
+   .card{
+       background-color: #1F6637;
+       margin-top:10px;
+   }
+   #resumepart{
+       background-color: #1F6637;
+       margin-top:10px;      
+   }
+   #educationDetails{
+    background-color:#1F6637;
+
+}
+}
+/*mobile view*/
+@media(max-width:767px){
+    #resumepart{
+        margin-top: 10px;
+    }
+
+}

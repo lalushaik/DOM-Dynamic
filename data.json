@@ -1,0 +1,35 @@
+{
+    "details":{
+        "name":"Lalu Shaik",
+        "mobile":"9988776655",
+        "email":"lalushaik1995@gmail.com",
+        "desig":"ReactJs Trainee",
+        "area" :"Hyderabad"    
+    },
+    "career":{
+        "title":"CAREER OBJECTIVE",
+         "info":"Actively looking for job profiles that best match my key skills in an organization that honors my performance and challenges me to think about how work can be done more effectively to meet desired expectations"
+    },
+    "professional":{
+        "title":"PROFESSIONAL SUMMARY",
+        "info1":"1+ years of experience as an Angular Developer.",
+        "info2":"1+ years of experience as an UI Developer.",
+        "info3":"Good Understanding of Overall web design including basic usability,accessibility and navigation.",
+        "info4":"Experience in Editing and Updating the CSS files",
+        "info5":"Hands on Experience in Responsive Web Designing with bootstrap, j-Query,JavaScript and Angular",
+        "info6":"Knowledge in creating Single Page Application (SPA) using Angular.",
+        "info7":"Take task ownership and have a strong desire to learn.",
+        "info8":"Able to quickly grasp new concepts, incorporate innovations and stay up to date with industry and business directions."
+    },
+    "experience":{
+        "title":"EXPERIENCE SUMMARY",
+        "info1":"Working as, Angular Developer in LOGIC MIND, Hyderabad from April 2019 to till date.",
+        "info2":"Worked as UI Developer in LOGIC MIND, Hyderabad from Feb 2018 to Mar 2019."
+    },
+    "education":{
+        "title":"EDUCATION",
+        "info1":"JNTU – KAKINADA UNIVERSITY",
+        "info2":"Bachelor’s Degree in Electrical and Electronics - 2016"
+    }
+
+}
